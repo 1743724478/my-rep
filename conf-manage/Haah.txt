@@ -3,4 +3,8 @@ ttttttttttttttt
 yyyyyyyyyyyyyyyyy
 uuuuuuuuuuuuuuuu
 iiiiiiiiiiiiiiiiiiii
+<<<<<<< HEAD
 oooooooooooooooooooo
+=======
+eeeeeeeeeeeeeeeeeee
+>>>>>>> branch 'master' of https://github.com/1743724478/my-rep.git
